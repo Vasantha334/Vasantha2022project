@@ -1,0 +1,500 @@
+   27  suid
+   28  su
+   29  suid
+   30  acl
+   31  Acl
+   32  clear
+   33  sgud
+   34  sgid
+   35  acl
+   36  getfacl
+   37  getfacl
+   38  cat random file
+   39  CORE
+   40  cat /etc/resolve.conf
+   41  vm /etc/newfile/loki
+   42  vm /etc/newfile/loki/conf
+   43  vm /etc/newfile/loki.conf
+   44  cat/etc/resolve.conf
+   45  systemctl status
+   46  shell
+   47  pid
+   48  pwd
+   49  ls
+   50  ls -lrt
+   51  ps-fu
+   52  ps-eo
+   53  cache
+   54  free-m
+   55  free -m
+   56  rpm
+   57  yum search n map
+   58  yum search nmap
+   59  yum groups
+   60  yum-history
+   61  rpm
+   62  system ctl
+   63  systemctl
+   64  vsftpd
+   65  /etc/systemd/system
+   66  cron tab-e
+   67  vi /etc/tmpfiles-d/my tmp.conf
+   68  syslogd
+   69  /etc/vsyslog.logd
+   70  /etc/r.syslog.conf
+   71  vi/etc rsyslog.conf
+   72  bios
+   73  lsblk
+   74  ls-l
+   75  ls-l sdat
+   76  lvm
+   77  vdo]
+   78  parted /dev/sdb
+   79  vdo
+   80  -l
+   81  clear
+   82  cat/etc/hosts
+   83  grep
+   84  help
+   85  vm
+   86  clear
+   87  vm
+   88  pwd
+   89  ls-l
+   90  ls -l
+   91  ip adress
+   92  ipadress
+   93  Ip adress
+   94  ip address
+   95  free
+   96  free-
+   97  free -63
+   98  free -
+   99  -df
+  100  deskfree-df
+  101  df-h
+  102  find mnt
+  103  find MNT
+  104  clear
+  105  cat lsfiles
+  106  whoami>ls files
+  107  help
+  108  clear
+  109  ls*
+  110  q
+  111  awash
+  112  awas h
+  113  alias h
+  114  cd
+  115  clear
+  116  cd
+  117  cd boot/
+  118  ls-lrt
+  119  ls -lrt
+  120  I
+  121  :I
+  122  manls
+  123  man ls
+  124  mkdir--helpl
+  125  mkdir--help
+  126  clear
+  127  mkdir
+  128  help
+  129  -c
+  130  alias-p
+  131  alias -p
+  132  colour chng to blue
+  133  tar
+  134  help
+  135  gzp
+  136  gzip
+  137  ln
+  138  installation vm
+  139  instalation vm
+  140  2>errors
+  141  ls*
+  142  cat errors
+  143  q
+  144  q
+  145  q
+  146  clear
+  147  ssh ip172-18-0-58-c3te90nnjsv000cn93s0@direct.labs.play-with-docker.com
+  148  if [ -z "$LOGGING_CONFIG" ]; then   if [ -r "$CATALINA_BASE"/conf/logging.properties ]; then     LOGGING_CONFIG="-Djava.util.logging.config.file=$CATALINA_BASE/conf/logging.properties";   else     LOGGING_CONFIG="-Dnop";   fi; fi
+  149  pwd
+  150  ssh ip172-18-0-9-c3v1pn7njsv000dha6p0@direct.labs.play-with-docker.com
+  151  ssh ip172-18-0-14-c3v242nnjsv000dha7ig@direct.labs.play-with-docker.com
+  152  ipconfig
+  153  cd Downloads/
+  154  ls -a
+  155  ls -a vasantha*
+  156  chmod 400 vasantha.pem
+  157  ssh -i "vasantha.pem" ec2-user@ec2-3-16-152-101.us-east-2.compute.amazonaws.com
+  158  ipconfig
+  159  ipconfig
+  160  ipconfig
+  161  ssh -i "vasantha.pem" ec2-user@ec2-3-143-230-157.us-east-2.compute.amazonaws.com
+  162  ssh -i "vasantha.pem" ec2-user@ec2-18-219-6-46.us-east-2.compute.amazonaws.com
+  163  ssh -i "vasantha.pem" ec2-user@ec2-18-219-6-46.us-east-2.compute.amazonaws.com
+  164  ssh -i "vasantha.pem" ec2-user@ec2-18-219-6-46.us-east-2.compute.amazonaws.com
+  165  ssh -i "vasantha.pem" ec2-user@ec2-18-219-6-46.us-east-2.compute.amazonaws.com
+  166  cd
+  167  cd Downloads/
+  168  scp -i "vasantha.pem" vasantha.pem ec2-user@ec2-18-219-6-46.us-east-2.compute.amazonaws.com:~/
+  169  cd Downloads/
+  170  ssh -i "vasantha.pem" ec2-user@ec2-18-219-6-46.us-east-2.compute.amazonaws.com
+  171  cd
+  172  cd Documents/
+  173  ls
+  174  git clone https://github.com/head-first-csharp/fourth-edition.git
+  175  cd fourth-edition/
+  176  start .
+  177  vf ../
+  178  cd ../
+  179  mv fourth-edition/ HeadFirst-CSharp-fourth-edition/
+  180  ssh -i "vasantha.pem" ec2-user@ec2-13-59-157-113.us-east-2.compute.amazonaws.com
+  181  cd f:
+  182  ls
+  183  cd 
+  184  cd Downloads/
+  185  ls
+  186  ssh -i "vasantha.pem" ec2-user@ec2-13-59-157-113.us-east-2.compute.amazonaws.com
+  187  ssh -i "vasantha.pem" ec2-user@ec2-13-59-157-113.us-east-2.compute.amazonaws.com
+  188  ssh -i "vasantha.pem" ec2-user@ec2-3-128-197-183.us-east-2.compute.amazonaws.com
+  189  ssh -i "vasantha.pem" ec2-user@ec2-18-118-2-68.us-east-2.compute.amazonaws.com
+  190  ssh -i "vasantha.pem" ec2-user@ec2-3-128-197-183.us-east-2.compute.amazonaws.com
+  191  ssh -i "vasantha.pem" ec2-user@ec2-3-128-197-183.us-east-2.compute.amazonaws.com
+  192  history
+  193  ssh -i "vasantha.pem" ec2-user@ec2-18-219-6-46.us-east-2.compute.amazonaws.com
+  194  ssh -i "vasantha.pem" ec2-user@ec2-18-219-6-46.us-east-2.compute.amazonaws.com
+  195  exit
+  196  cd Downloads/
+  197  ssh -i "vasantha.pem" ec2-user@ec2-18-219-6-46.us-east-2.compute.amazonaws.com
+  198  ssh -i "vasantha.pem" ec2-user@ec2-18-219-6-46.us-east-2.compute.amazonaws.com
+  199  ssh -i "vasantha.pem" ec2-user@ec2-18-118-2-68.us-east-2.compute.amazonaws.com
+  200  ssh -i "vasantha.pem" ec2-user@ec2-3-142-195-53.us-east-2.compute.amazonaws.com
+  201  ssh -i "vasantha.pem" ec2-user@ec2-3-142-195-53.us-east-2.compute.amazonaws.com
+  202  ssh -i "vasantha.pem" ec2-user@ec2-3-12-73-144.us-east-2.compute.amazonaws.com
+  203  ssh -i "vasantha.pem" ec2-user@ec2-18-118-252-215.us-east-2.compute.amazonaws.com
+  204  ssh -i "vasantha.pem" ec2-user@ec2-3-140-198-178.us-east-2.compute.amazonaws.com
+  205  ssh -i "vasantha.pem" ec2-user@ec2-18-119-104-214.us-east-2.compute.amazonaws.com
+  206  sudo yum install maven y
+  207  ssh -i "vasantha.pem" ec2-user@ec2-18-189-184-110.us-east-2.compute.amazonaws.com
+  208  cd f:
+  209  ls
+  210  cd vasantha/
+  211  ls
+  212  mkdir mavenproject
+  213  git clone https://github.com/jleetutorial/maven-project.git
+  214  ls
+  215  cd maven
+  216  cd mavenproject/
+  217  ls
+  218  ls -lia
+  219  cd ..
+  220  cd maven-project/
+  221  ls -lia
+  222  mvn --version
+  223  git remote -v
+  224  mvn complile
+  225  mvn compile
+  226  mvn test
+  227  mvn clean
+  228  mvn package
+  229  ls -l
+  230  cat pom.xml 
+  231  ls -l
+  232  cdc webapp/
+  233  cd webapp/
+  234  ls -l
+  235  cd src
+  236  ls
+  237  cd ..
+  238  cd mavem-project
+  239  cd maven-project
+  240  cd ..
+  241  tomcat --version
+  242  history
+  243  cd Downloads/
+  244  ls *pem
+  245  ssh -i "vasantha.pem" ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  246  chmod 400 vasantha.pem
+  247  ssh -i "vasantha.pem" ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  248  cd dow
+  249  cd Downloads/
+  250  ssh -i "vasantha.pem" ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  251  chmod 400 vasantha.pem
+  252  cl
+  253  ls
+  254  cd Downloads/
+  255  ssh -i "vasantha.pem" ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  256  chmod 400 vasantha.pem
+  257  ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  258  ssh -i "vasantha.pem" ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  259  ssh -i "vasantha.pem" ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  260  cd Downloads/
+  261  ssh -i "vasantha.pem" ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  262  ls *pem
+  263  chmod 400 vasantha.pem
+  264   ssh -i "vasantha.pem" ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  265   ssh -i "vasantha.pem" ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  266   ssh -i vasantha(1).pem ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  267   ssh -i "vasantha(1).pem" ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  268  rm -rf vasantha.pem 
+  269  mv "vasantha(1).pem" vasantha.pem
+  270  ls vasantha.pem 
+  271   ssh -i "vasantha.pem" ubuntu@ec2-13-233-91-101.ap-south-1.compute.amazonaws.com
+  272  cd Downloads/
+  273  ls
+  274  cd wez
+  275  ls
+  276  ssh -i "vasantha.pem" ubuntu@ec2-3-7-253-209.ap-south-1.compute.amazonaws.com
+  277  ssh -i "vasantha.pem" ubuntu@ec2-52-66-235-155.ap-south-1.compute.amazonaws.com
+  278  ssh -i "vasantha.pem" ubuntu@ec2-15-206-88-157.ap-south-1.compute.amazonaws.com
+  279  cd Downloads/
+  280  cd wez
+  281  ssh -i "vasantha.pem" ubuntu@ec2-15-206-88-157.ap-south-1.compute.amazonaws.com
+  282  cd Downloads/
+  283  cd Downloads/
+  284  cd wez/
+  285  ssh -i "vasantha.pem" ubuntu@ec2-15-206-88-157.ap-south-1.compute.amazonaws.com
+  286  -----BEGIN RSA PRIVATE KEY-----
+  287  MIIEowIBAAKCAQEAn5cRjX2RBZ52neZXORzxeQCtFkek313qQzJOzahOgMLXlY0W
+  288  eLTmO/eqlwiqxhnqKtIRoe5FHw+j3R4S6Zl9rwHJbGXmw3MqiKmOHOCUjPpqJfKo
+  289  hL/I9Ljhbw61/NCcFgASLgKp8XbNK7V+kWNYqOf/mku/gTjTu4PZhca1hz0+EVrE
+  290  VQhIiDSpPwIpSoJ16sCzUyWjxQM9HaoO+6AaWlgo+l5eEwmswqEtCJKVc34VsG6x
+  291  N+9pG5jooxVXyBcfeE5yzDUYRfN8VpJ3dCoWuEl8U2X3y9+/+R6Th1F4un2jZIzM
+  292  ynbSt/LngvngQCaRpHb26B0YbAQ9Pe4CXM4ufQIDAQABAoIBAGXGjvAgCxN9SoJK
+  293  eoe22JxlfPz/dbrphtORysXHN0FQgPIkBxe1rjrCKK2nXll1/2uNiqctcDFt5P/I
+  294  BSGqvIeWaSFTH0a4NIDxOOtbogECVh2bUjNOp9bB7SrJQ/BWDaTOKMnk8wJF1HSy
+  295  i2Qm6kzVn6GD+z5qwkUMwfVZkz0KIfXBTJr918IzdpDP36/gbYdkPSni3TvF1L+x
+  296  YuLgk119ND4coPnzqa8bPL8uYeJHMQmB70XdnOIzH2MHIGSoWS2Jl1O77fb4VkHJ
+  297  ILwFCLF49wKQdHxlXeRIx5hLMeBTXlH779Q4bblrvTJ4TM/gIoZjNy8aqaJdcxD1
+  298  Hg+2OYECgYEA6dIsZe6vI1SNtEws6+OQXveALtlmu3DvJhPzr4gZ2qb+Pz7Kfh+K
+  299  v/4M2CNpkcijrAiyKTSEjQN7ThzK3pfHwRPCxRVf1pLPD4p0GOaq0l0j+dIhgPxG
+  300  mO3c6T/18y5sKVpDtiTYe7oauhzPFJMmi57Rd2dKf6sjazh/y2xbaR0CgYEArrpc
+  301  tAPguHfV9/qUHUb/CrUIyaColjklV1+GUuGBJrc8uOa2LM5IHP+lAuIXOf5IfeBK
+  302  PNWs9SWrp3W+aEjfl5cHx99l8kgqOvAgPY5Domw5udR+L+OPm5hc/XhJT4OexgOh
+  303  zMhxx6CqgruyDJIMwVZ0+8YsH44jF3pNl47kPOECgYEA2ZHeCkNc6G0nJluzeRPZ
+  304  JOT8e5uDwmrFvRLXr7/e/txgvAz7cvx6qUgGP6BD/YlK8ytsTHc319cjh323MATf
+  305  tMNkeur2sL0OuxFEEl+hF/nfHfjvgAw+zNKYutnvTAcoUhpR40zJu+diM0fXUPfT
+  306  6BsyIf8VDVL7tCtwjqMXM+kCgYBQARUheAUVcgmPGjVnknKFPI9hgyauYkwuzZZ7
+  307  rLWuPIiZQUp5CZsLbCLqRwvLihs3R9O2N0CSn0UR0F/28CcxCf6ODkRnw5NSmVCp
+  308  3tIpNNTZueptkwzWedVaWhF3TxUMJe2YDs/KUE7CvZ6xEs60WBoIjpz1deergFy2
+  309  4L6xAQKBgGUrcyf7t1VjHnIscM4l4sB6TUcp5UsMwcWDhUrblorrGdc5ZJbWBLmV
+  310  kfK+/bQcnwrRcc5eXhcAvSueVlUnetLPGjTUf2Kzrn2nqyWHjyBw1x++Pkag/Hbe
+  311  Im3aEV+aODGmwbiJVAe8Fl8TEf/LFoTXEYR0hV3ZsAj/r/bPcUGV
+  312  -----END RSA PRIVATE KEY-----
+  313  -----BEGIN RSA PRIVATE KEY-----
+  314  MIIEowIBAAKCAQEAn5cRjX2RBZ52neZXORzxeQCtFkek313qQzJOzahOgMLXlY0W
+  315  eLTmO/eqlwiqxhnqKtIRoe5FHw+j3R4S6Zl9rwHJbGXmw3MqiKmOHOCUjPpqJfKo
+  316  hL/I9Ljhbw61/NCcFgASLgKp8XbNK7V+kWNYqOf/mku/gTjTu4PZhca1hz0+EVrE
+  317  VQhIiDSpPwIpSoJ16sCzUyWjxQM9HaoO+6AaWlgo+l5eEwmswqEtCJKVc34VsG6x
+  318  N+9pG5jooxVXyBcfeE5yzDUYRfN8VpJ3dCoWuEl8U2X3y9+/+R6Th1F4un2jZIzM
+  319  ynbSt/LngvngQCaRpHb26B0YbAQ9Pe4CXM4ufQIDAQABAoIBAGXGjvAgCxN9SoJK
+  320  eoe22JxlfPz/dbrphtORysXHN0FQgPIkBxe1rjrCKK2nXll1/2uNiqctcDFt5P/I
+  321  BSGqvIeWaSFTH0a4NIDxOOtbogECVh2bUjNOp9bB7SrJQ/BWDaTOKMnk8wJF1HSy
+  322  i2Qm6kzVn6GD+z5qwkUMwfVZkz0KIfXBTJr918IzdpDP36/gbYdkPSni3TvF1L+x
+  323  YuLgk119ND4coPnzqa8bPL8uYeJHMQmB70XdnOIzH2MHIGSoWS2Jl1O77fb4VkHJ
+  324  ILwFCLF49wKQdHxlXeRIx5hLMeBTXlH779Q4bblrvTJ4TM/gIoZjNy8aqaJdcxD1
+  325  Hg+2OYECgYEA6dIsZe6vI1SNtEws6+OQXveALtlmu3DvJhPzr4gZ2qb+Pz7Kfh+K
+  326  v/4M2CNpkcijrAiyKTSEjQN7ThzK3pfHwRPCxRVf1pLPD4p0GOaq0l0j+dIhgPxG
+  327  mO3c6T/18y5sKVpDtiTYe7oauhzPFJMmi57Rd2dKf6sjazh/y2xbaR0CgYEArrpc
+  328  tAPguHfV9/qUHUb/CrUIyaColjklV1+GUuGBJrc8uOa2LM5IHP+lAuIXOf5IfeBK
+  329  PNWs9SWrp3W+aEjfl5cHx99l8kgqOvAgPY5Domw5udR+L+OPm5hc/XhJT4OexgOh
+  330  zMhxx6CqgruyDJIMwVZ0+8YsH44jF3pNl47kPOECgYEA2ZHeCkNc6G0nJluzeRPZ
+  331  JOT8e5uDwmrFvRLXr7/e/txgvAz7cvx6qUgGP6BD/YlK8ytsTHc319cjh323MATf
+  332  tMNkeur2sL0OuxFEEl+hF/nfHfjvgAw+zNKYutnvTAcoUhpR40zJu+diM0fXUPfT
+  333  6BsyIf8VDVL7tCtwjqMXM+kCgYBQARUheAUVcgmPGjVnknKFPI9hgyauYkwuzZZ7
+  334  rLWuPIiZQUp5CZsLbCLqRwvLihs3R9O2N0CSn0UR0F/28CcxCf6ODkRnw5NSmVCp
+  335  3tIpNNTZueptkwzWedVaWhF3TxUMJe2YDs/KUE7CvZ6xEs60WBoIjpz1deergFy2
+  336  4L6xAQKBgGUrcyf7t1VjHnIscM4l4sB6TUcp5UsMwcWDhUrblorrGdc5ZJbWBLmV
+  337  kfK+/bQcnwrRcc5eXhcAvSueVlUnetLPGjTUf2Kzrn2nqyWHjyBw1x++Pkag/Hbe
+  338  Im3aEV+aODGmwbiJVAe8Fl8TEf/LFoTXEYR0hV3ZsAj/r/bPcUGV
+  339  -----END RSA PRIVATE KEY-----
+  340  cd Downloads/wez
+  341  ssh -i ".pem" ubuntu@ec2-13-233-106-101.ap-south-1.compute.amazonaws.com
+  342  chmod 400 .pem
+  343  ssh -i "vasantha.pem" ubuntu@ec2-65-0-7-250.ap-south-1.compute.amazonaws.com
+  344  cd Downloads/wez/
+  345  ssh -i "vasantha.pem" ubuntu@ec2-65-0-7-250.ap-south-1.compute.amazonaws.com
+  346  ssh -i "vasantha.pem" ubuntu@ec2-15-206-159-117.ap-south-1.compute.amazonaws.com
+  347  cd Downloads/wez/
+  348  ssh -i "vasantha.pem" ubuntu@ec2-13-235-51-42.ap-south-1.compute.amazonaws.com
+  349  ssh -i "vasantha.pem" ubuntu@ec2-13-235-51-42.ap-south-1.compute.amazonaws.com
+  350  ssh -i "vasantha.pem" ubuntu@ec2-13-233-166-118.ap-south-1.compute.amazonaws.com
+  351  ssh -i "vasantha.pem" ubuntu@ec2-13-235-51-42.ap-south-1.compute.amazonaws.com
+  352  ssh -i "vasantha.pem" ubuntu@ec2-13-235-51-42.ap-south-1.compute.amazonaws.com
+  353  ssh -i "vasantha.pem" ubuntu@ec2-13-235-51-42.ap-south-1.compute.amazonaws.com
+  354  touch 1.txt
+  355  ls
+  356  mkdir myproject
+  357  cd .
+  358  cd/
+  359  cd /
+  360  cd e
+  361  cd /
+  362  cd G
+  363  cd Vastantha-docs/
+  364  ls
+  365  mkdir linxproject
+  366  ls
+  367  ls -la
+  368  cd linxproject/
+  369  touch gvkr.txt
+  370  touch {1,2,3...10}.txt
+  371  ls -lsa
+  372  vi gvkr.txt 
+  373  vim gvkr.txt 
+  374  mv gvkr.txt > 1.txt
+  375  mv --help
+  376  mv gvkr.txt >1.txt
+  377  vkrgkfgjgjgddkkdggkgkgmbmhmfmgmmb,f,vvvvmmgggg
+  378  cd ..
+  379  cd g
+  380  cd /g
+  381  cd Vastantha-docs/
+  382  ls
+  383  cd linxproject/
+  384  ls
+  385  touch {1,2,3,..10).txt
+  386  ls
+  387  rm *.txt
+  388  ls
+  389  touch {1,2,3..20}.txt
+  390  ls
+  391  rm *.txt
+  392  mkdir test/t1/t2 g.txt
+  393  clear
+  394  cd
+  395  pwd
+  396  cd /g/Vastantha-docs/
+  397  cd linxproject/
+  398  pwd
+  399  touch file.txt
+  400  touch file1.txt
+  401  cat>file2.txt
+  402  clear
+  403  cat file3.txt
+  404  ls
+  405  cat file2.txt
+  406  tac file2.txt 
+  407  nl file2.txt 
+  408  clear
+  409  wc file2.txt 
+  410  cat file2.txt 
+  411  vi file.txt 
+  412  cat file.txt file2.txt>file3.txt
+  413  cat file3.txt 
+  414  diff file1.txt filw3.txt
+  415  diff file1.txt file3.txt
+  416  head file3.txt 
+  417  more file3.txt 
+  418  yum more
+  419  man more
+  420  mann
+  421  grep line file3.txt 
+  422  ca file3.txt 
+  423  cat file3.txt 
+  424  id
+  425  chmod u=r file3.txt 
+  426  vi file3.txt 
+  427  chmod u=w file3.txt 
+  428  vi file3.txt 
+  429  ping 
+  430  ping google.com
+  431  ping google.com
+  432  history
+  433  551!
+  434  3!
+  435  vi file3.txt 
+  436  id
+  437  cat file3.txt 
+  438  vi file3.txt 
+  439  uniq file3.txt 
+  440  cat file3.txt 
+  441  hostname
+  442  hostname -i
+  443  hostname i
+  444  hostname --i
+  445  hostname -- i
+  446  hostname help
+  447  hostname --help
+  448  ls -lia
+  449  rmdir g.txt/
+  450  ls -lia
+  451  rm file2.txt 
+  452  ls -lia
+  453  clear
+  454  ls
+  455  cat file3.txt 
+  456  vi file3.txt 
+  457  vi file1.txt 
+  458  cat file1.txt>file5.txt
+  459  new no>file5.txt
+  460  cat>file5.txt 
+  461  cat file5.txt 
+  462  cat file1.txt>file5.txt 
+  463  cat file5.txt 
+  464  cat>file5.txt
+  465  cat file5.txt 
+  466  more file5.txt 
+  467  less file5.txt 
+  468  vi file5.txt 
+  469  cat>>file5.txt 
+  470  cat file5.txt 
+  471  cpu
+  472  who
+  473  whoiam
+  474  who i am
+  475  hostname -I
+  476  echo hello
+  477  find ./ type f "*txt"
+  478  tree
+  479  ls -lia
+  480  grep -n "line" file5.txt 
+  481  sort -r file5.txt 
+  482  tail -10 file5.txt 
+  483  grep -n "line" file5.txt |echo
+  484  grep -n "line" file5.txt |cat file5.txt 
+  485  echo "hello everyone"|tr "e" "f"
+  486  cat file5.txt |sort
+  487  ln -s file5.txt  filesoft.txt
+  488  cat>>file5.txt 
+  489  cat filesoft.txt 
+  490  cat file5.txt 
+  491  cat file5.txt >>file6.txt
+  492  ls
+  493  rm file5.txt 
+  494  cat filesoft.txt 
+  495  tar -cvg *.txt
+  496  tar -cvf .txt
+  497  tar -cvf test tar 
+  498  tar -cvf test.tar 
+  499  git bash
+  500  git init
+  501  cd ..
+  502  cd /g
+  503  ls
+  504  cd Vastantha-docs/
+  505  git init
+  506  ls
+  507  cd linxproject/
+  508  git init
+  509  ls
+  510  ls _lia
+  511  ls -lia
+  512  git add
+  513  git add .
+  514  git status
+  515  git add .
+  516  git status
+  517  git commet -m 'added'
+  518  git commit -m 'added' *.txt
+  519  git status
+  520  git remote add origin https://github.com/Vasantha334/Vasantha2022project.git
+  521  git remote -v
+  522  history
+  523  > 
+  524  >file.txt
+  525  cat file.txt 
+  526  history>file.tt
