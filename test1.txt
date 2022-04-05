@@ -501,7 +501,3 @@
 new
 one office 
 food
-winner
-player
-runner
-nw
