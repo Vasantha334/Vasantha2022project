@@ -505,3 +505,5 @@ winner
 player
 runner
 nw
+master data not in pizza
+git status
